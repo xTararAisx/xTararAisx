@@ -58,7 +58,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=xTararAisx&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=xTarArAisx&color=blue" alt="Profile Views"/>
 </p>
 
 ---
