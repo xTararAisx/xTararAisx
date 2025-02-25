@@ -13,7 +13,7 @@
 <h2>🌟 Current Projects</h2>
 
 - ⚔️ <b><a href="https://valhallaonline.net" target="_blank">Valhalla Online</a></b> – Ragnarok Online  
-- 📢 <b><a href="https://bannermarket.com" target="_blank">Banner Market</a></b> – Historical Market Prices ~ Bannerlord Online  
+- 📢 <b><a href="https://bannermarket.online" target="_blank">Banner Market</a></b> – Historical Market Prices ~ Bannerlord Online  
 - 💰 <b>yaPayments</b> (In Development) – Crypto payment gateway  
 
 
