@@ -30,7 +30,7 @@
       <br><b>GitHub Stats</b>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xTarArAisx&theme=dark" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=xTarArAisx&theme=dark" />
       <br><b>Streak Stats</b>
     </td>
     <td align="center">
