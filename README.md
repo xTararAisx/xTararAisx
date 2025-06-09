@@ -3,7 +3,7 @@
 <p align="left">
   🎮<b>Automation, Games, BlackHat</b>  
   <br>
-💻 DevOp ~ Cloud, Automation & Infrastructure as Code
+💻 DevOps ~ Cloud, Automation & Infrastructure as Code
  <br>
   🔧 I love building tools that make life easier  
 </p>
